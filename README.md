@@ -11,7 +11,7 @@
 
 # 플레이 방법
 
-[유튜브](https://youtu.be/8b93Tmzuy0w)
+https://youtu.be/8b93Tmzuy0w
 
 [설치 방법](https://github.com/DaLae37/chickenfrompoultryfarm/releases/download/v1.0.0/howtoinstall.pdf)
 
